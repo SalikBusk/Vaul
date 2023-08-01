@@ -4,7 +4,7 @@ Vaul er en Komponent til React, der jan bruges som en Dialog-erstatning på tabl
 ## Brug
     npm install vaul
 
-Use the drawer in your app.
+Brug denne i din app.
 
     import { Drawer } from 'vaul';
 
