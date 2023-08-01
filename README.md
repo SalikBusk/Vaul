@@ -21,8 +21,7 @@ Brug denne i din app.
         </Drawer.Root>
       );
     }
-    
-## Eksempler
+
 
 
 
