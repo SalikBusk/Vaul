@@ -1,7 +1,7 @@
 # Vaul
-Vaul er en Komponent til React, der jan bruges som en Dialog-erstatning på tablets og mobile enheder. Den bruger Radix's Dialog primitive under hætten.
+Vaul er en Komponent til React, der jan bruges som en Dialog-erstatning på tablets og mobile enheder. Den bruger [Radix's Dialog primitive](https://www.radix-ui.com/docs/primitives/components/dialog#trigger) under hætten og er inspireret af [dette tweet](https://twitter.com/devongovett/status/1674470185783402496).
 
-# Brug
+## Brug
     npm install vaul
 
 Use the drawer in your app.
@@ -21,3 +21,8 @@ Use the drawer in your app.
         </Drawer.Root>
       );
     }
+    
+## Eksempler
+
+
+
